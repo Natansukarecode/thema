@@ -456,10 +456,10 @@ while true; do
   echo -e "${RED}  ,ggggg        gggggggg.                                 ${NC}"
   echo -e "${RED} ,ggg'               'ggg.                                ${NC}"
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
-  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Fadhost   ${NC}"
+  echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer natanoofc   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : fadhost      ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : FADHOSTOFFC  ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • Telegram : natannfk      ${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : natannfk  ${NC}"
   echo -e "${RED} ggg.    '.'''ggggggp           • Support by FadhostOffc  ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
@@ -508,7 +508,7 @@ while true; do
       ubahpw_vps
       ;;
     x)
-      echo "Keluar dari skrip."
+      echo "Keluar dari script."
       exit 0
       ;;
     *)
